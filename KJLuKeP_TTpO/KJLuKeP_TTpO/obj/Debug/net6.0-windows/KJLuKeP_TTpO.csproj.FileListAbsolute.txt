@@ -1,0 +1,17 @@
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\bin\Debug\net6.0-windows\KJLuKeP_TTpO.exe
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\bin\Debug\net6.0-windows\KJLuKeP_TTpO.deps.json
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\bin\Debug\net6.0-windows\KJLuKeP_TTpO.runtimeconfig.json
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\bin\Debug\net6.0-windows\KJLuKeP_TTpO.dll
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\bin\Debug\net6.0-windows\KJLuKeP_TTpO.pdb
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.Form1.resources
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.AssemblyInfo.cs
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.dll
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\refint\KJLuKeP_TTpO.dll
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.pdb
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\KJLuKeP_TTpO.genruntimeconfig.cache
+C:\Users\sasha\source\repos\KJLuKeP_TTpO\KJLuKeP_TTpO\obj\Debug\net6.0-windows\ref\KJLuKeP_TTpO.dll
