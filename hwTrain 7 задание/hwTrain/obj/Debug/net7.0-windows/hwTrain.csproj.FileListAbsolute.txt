@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\hwTrain\hwTrain\bin\Debug\net7.0-windows\hwTrain.exe
+C:\Users\1\source\repos\hwTrain\hwTrain\bin\Debug\net7.0-windows\hwTrain.deps.json
+C:\Users\1\source\repos\hwTrain\hwTrain\bin\Debug\net7.0-windows\hwTrain.runtimeconfig.json
+C:\Users\1\source\repos\hwTrain\hwTrain\bin\Debug\net7.0-windows\hwTrain.dll
+C:\Users\1\source\repos\hwTrain\hwTrain\bin\Debug\net7.0-windows\hwTrain.pdb
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.Form1.resources
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.csproj.GenerateResource.cache
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.AssemblyInfo.cs
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.dll
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\refint\hwTrain.dll
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.pdb
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\hwTrain.genruntimeconfig.cache
+C:\Users\1\source\repos\hwTrain\hwTrain\obj\Debug\net7.0-windows\ref\hwTrain.dll

@@ -1,0 +1,22 @@
+C:\Users\mnami\source\repos\game_lab\game_lab\bin\Debug\game_lab.exe.config
+C:\Users\mnami\source\repos\game_lab\game_lab\bin\Debug\game_lab.exe
+C:\Users\mnami\source\repos\game_lab\game_lab\bin\Debug\game_lab.pdb
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.csproj.AssemblyReference.cache
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.Form1.resources
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.Properties.Resources.resources
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.csproj.GenerateResource.cache
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.csproj.CoreCompileInputs.cache
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.exe
+C:\Users\mnami\source\repos\game_lab\game_lab\obj\Debug\game_lab.pdb
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\bin\Debug\game_lab.exe.config
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\bin\Debug\game_lab.exe
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\bin\Debug\game_lab.pdb
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.Form1.resources
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.Properties.Resources.resources
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.exe
+C:\Users\1\Downloads\Telegram Desktop\game_lab\game_lab\game_lab\obj\Debug\game_lab.pdb

@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\hwAirplane\hwAirplane\bin\Debug\net7.0-windows\hwAirplane.exe
+C:\Users\1\source\repos\hwAirplane\hwAirplane\bin\Debug\net7.0-windows\hwAirplane.deps.json
+C:\Users\1\source\repos\hwAirplane\hwAirplane\bin\Debug\net7.0-windows\hwAirplane.runtimeconfig.json
+C:\Users\1\source\repos\hwAirplane\hwAirplane\bin\Debug\net7.0-windows\hwAirplane.dll
+C:\Users\1\source\repos\hwAirplane\hwAirplane\bin\Debug\net7.0-windows\hwAirplane.pdb
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.Form1.resources
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.csproj.GenerateResource.cache
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.AssemblyInfo.cs
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.dll
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\refint\hwAirplane.dll
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.pdb
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\hwAirplane.genruntimeconfig.cache
+C:\Users\1\source\repos\hwAirplane\hwAirplane\obj\Debug\net7.0-windows\ref\hwAirplane.dll
